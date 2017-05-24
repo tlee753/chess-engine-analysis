@@ -3,6 +3,7 @@ Curious to determine the most valuable via a blitz chess tournament (5 minutes) 
 
 ### hypothesis
 - getting of to a good start is likely going to be crucial and overpowering, plus excess time could help in endgame
+- opening advtangted player will win, mid-game advantaged player will be close 2nd
 
 ### testing procedure
 - based on my estimate of games typically lasting around 50 moves
@@ -15,4 +16,4 @@ Curious to determine the most valuable via a blitz chess tournament (5 minutes) 
 - 5 seconds are optional, don't neccesarily have to be used as time is a resource
 - chess engine will be lastest version of stockfish
 - computer will be optimized for game engine
-- move times subject to change based on testing (current times don't take much time..., maybe 2 seconds default)
+- move times subject to change based on testing (current times don't take much time..., maybe 2 seconds default to lessen advantage)
